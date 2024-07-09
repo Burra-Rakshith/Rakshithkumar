@@ -1,0 +1,60 @@
+.left{
+    margin-left: auto;
+}
+body{
+   background-color:  rgb(5, 58, 55);
+}
+.box-1:hover{
+    color: rgb(49, 118, 12);
+    
+}
+.box-2:hover{
+    color: rgb(7, 74, 7);
+}   
+.total-body{
+    background-image:url('C:\Users\saiki\OneDrive\Pictures\Saved Pictures\Photo - Google Photos_files\unnamed.jpg6');
+}
+.img-link{
+   text-align: center;
+   padding-top: 20px;
+   cursor: pointer;
+   position: sticky;
+   bottom: 5px;
+   margin-top: 50px;
+}
+.img-pf{
+   margin-left: 25%;
+}
+.img-pf :hover{
+    size: 18px;
+}
+
+.box-1 {
+    text-align: center;
+    margin-top: 70px;
+}
+.box-2 {
+    margin-top: 70px;
+}
+.about{
+    text-align: center;
+    margin-top: 50px;
+}
+.ai-chatbot{
+    position: sticky;
+    bottom: 5px;
+    left: 5px;
+    margin-left: 900px;
+}
+.img-1 {
+    cursor: pointer;
+    filter: drop-shadow(1px 1px 20px red);
+}
+.img-pf {
+    cursor: pointer;
+    filter: drop-shadow(1px 1px 20px rgb(8, 100, 103));
+
+}
+.navbar navbar-expand-lg bg-body-tertiary{
+    color: black;
+}
